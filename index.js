@@ -19,6 +19,6 @@ leastFavoriteCustomer = 'petyr'
 
 const favoriteCustomer = 'sally'
 
-function attemptTwoFavoriteCustomers {
+function attemptTwoFavoriteCustomers() {
   let favoriteCustomer = 'timmy'
 }
